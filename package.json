@@ -9,11 +9,13 @@
     "lint": "eslint . ts,tsx --report-unused-disable-directives --max-warnings 0"
   },
   "dependencies": {
-    "@clerk/nextjs": "^5.1.5",
+    "@bytescale/upload-widget-react": "^4.19.0",
+    "@clerk/nextjs": "^4.29.1",
     "next": "14.2.4",
     "react": "^18",
     "react-compare-slider": "^3.1.0",
     "react-dom": "^18",
+    "react-select": "^5.8.0",
     "replicate": "^0.30.2",
     "zustand": "^4.5.2"
   },
